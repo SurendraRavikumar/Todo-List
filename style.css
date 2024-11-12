@@ -1,0 +1,25 @@
+#div1{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 150px auto;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    margin-left: 70px;
+    margin-right: 10px;
+}
+
+#div2{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-left: 70px;
+    text-align: left;
+}
