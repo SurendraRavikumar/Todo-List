@@ -4,6 +4,7 @@
     border: 2px solid black;
     margin: 150px auto;
     border-radius: 15px;
+    background-color: bisque;
 }
 
 h1{
@@ -18,8 +19,14 @@ input{
 #div2{
     width: 200px;
     height: 200px;
-    border: 2px solid black;
-    border-radius: 15px;
-    margin-left: 70px;
+    /* border: 2px solid black; */
+    /* border-radius: 15px; */
+    margin-left: 50px;
     text-align: left;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.delete{
+    margin-left: 30px;
 }
